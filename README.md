@@ -1,4 +1,4 @@
 # rogljicek
 Krneki.
 
-Lojtra.
+Lojtra. In pika.
